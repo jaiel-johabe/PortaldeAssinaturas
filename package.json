@@ -8,6 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "lint": "eslint . --ext .ts,.tsx"
+    
   },
   "dependencies": {
     "@vercel/analytics": "^1.2.2",
