@@ -1,5 +1,7 @@
 # Portal de Assinaturas
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Um portal web para geração de assinaturas de e-mail corporativas, com suporte a múltiplos idiomas, personalização de campos e exportação facilitada.
 
 ## Visão Geral
