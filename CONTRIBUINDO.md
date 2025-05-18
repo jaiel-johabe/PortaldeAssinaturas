@@ -25,7 +25,7 @@ Queremos tornar esse projeto acessível e colaborativo. Aqui estão algumas mane
 - Use mensagens de commit claras.
 - Mantenha o estilo do código consistente.
 - Sempre que possível, escreva testes.
-- Seja respeitoso e colaborativo (consulte nosso [Código de Conduta](./CÓDIGO DE CONDUTA.md)).
+- Seja respeitoso e colaborativo (consulte nosso [Código de Conduta](./CODIGO_DE_CONDUTA.md)).
 
 ---
 
