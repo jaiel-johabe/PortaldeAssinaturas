@@ -29,7 +29,7 @@ O Portal de Assinaturas é uma aplicação web desenvolvida com React, TypeScrip
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/portal-assinaturas.git
+git clone https://github.com/jaiel-johabe/PortaldeAssinaturas.git
 cd portal-assinaturas
 ```
 
