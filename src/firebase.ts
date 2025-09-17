@@ -9,7 +9,7 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 
-// Your web app's Firebase configuration
+// Configuração do Firebase do seu aplicativo da web
 const firebaseConfig = {
   apiKey: "xxxxxxxxxxxxxxxxx",  // Edite esses campos, caso queira configurar o firebase para autenticação de login.
   authDomain: "xxxxxxxxxxxxxxxxx",
